@@ -1,2 +1,2 @@
-# humanstore
+# OpenHuman.ai SDK
 OpenHuman SDK
